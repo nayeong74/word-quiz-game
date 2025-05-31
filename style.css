@@ -1,0 +1,10 @@
+body { font-family: 'Pretendard', Arial, sans-serif; background:#f8f9fa; margin:0; }
+.container { max-width:400px; margin:40px auto; background:#fff; border-radius:16px; box-shadow:0 2px 8px #0001; padding:2em 2em 2.5em 2em; text-align:center; }
+h1 { color:#1a73e8; }
+#question { font-size:1.2em; margin-bottom:1em; }
+#answer { font-size:1em; padding:0.5em; border-radius:6px; border:1px solid #ccc; width:70%; margin-bottom:1em; }
+button { background:#1a73e8; color:#fff; border:none; padding:0.7em 1.5em; border-radius:6px; font-size:1em; cursor:pointer; margin:0.3em; }
+button[disabled] { background:#b0bec5; cursor:not-allowed; }
+#result { font-size:1.1em; margin:1em 0 0.5em 0; color:#e53935; font-weight:500; }
+#score { margin-top:1em; color:#333; font-size:1em; }
+#next-btn { background:#43a047; }
